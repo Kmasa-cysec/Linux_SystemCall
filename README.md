@@ -10,7 +10,7 @@
  　*buff_name : open()したファイルのファイル名と格納先ポインタ  
  　*op_file_num : open()したファイルの数
 - 戻り値  
-　正常に完了したら，１を返す  
+　正常に完了すれば，１を返す  
 　正常に完了しない場合はエラーを返す
 - エラー  
 　ENOENT　　　No such file or directory
